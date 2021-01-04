@@ -84,7 +84,7 @@ p{
 }
 #baby-web{
     border-left: 7px solid;
-    border-image: linear-gradient(90deg, rgb(4, 232, 185) , rgb(117, 218, 255));
+    border-image: linear-gradient(180deg, rgb(4, 232, 185) , rgb(117, 218, 255));
     border-image-slice: 1;
 }
 .section3 h2{
